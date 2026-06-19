@@ -21,3 +21,6 @@ Partnering for Sovereignty
 ​We provide high-assurance autonomous security for enterprise environments that cannot afford systemic failure. Our middleware is currently powering private, high-consequence logistics stacks.
 ​Current Status: Limited integration slots are available for enterprise partners requiring immediate infrastructure hardening.
 ​Request Architectural Review / Integration Inquiry
+​Current Roadmap: The Zero-Injection Mandate
+​The AlphaWatchdogEngine is already active in production logistics environments. We are currently finalising the final defensive layer: 100% Deterministic Resistance to Prompt Injection.
+​While competitors attempt to "patch" vulnerabilities with more prompt engineering, we are building the final guardrail that eliminates the attack vector at the logic layer. By the next deployment cycle, the Engine will achieve absolute injection immunity.
