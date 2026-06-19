@@ -10,12 +10,12 @@ AlphaWatchdogEngine: Deterministic Intent-Auditing Middleware
 ​Cryptographic Passporting: Every agent session is hashed and time-bound, rendering injection-based replays technically impossible.
 ​Zero-Trust Execution: We do not rely on prompt-based "best efforts." We rely on deterministic logic audits.
 ​Operational Integrity Sample
+
 [TIMESTAMP]: 2026-06-15 11:30:02 
 [EVENT]: INJECTION_ATTEMPT_DETECTED 
 [AUDIT_LOGIC]: Watchdog_Core_Validation_Failed 
 [ACTION]: FAIL_CLOSED_INITIATED 
 [STATUS]: THREAD_TERMINATED
-
 
 Partnering for Sovereignty
 ​We provide high-assurance autonomous security for enterprise environments that cannot afford systemic failure. Our middleware is currently powering private, high-consequence logistics stacks.
